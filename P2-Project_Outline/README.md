@@ -57,7 +57,7 @@ Hidden Gems Travel App uses:
 * Bing Maps API
 
 ### What I'll Have to Learn
-To complete this project we will need to learn how to collaborate and communicate effectively in order to hit our milestones.  This will involve following Scrum best-practices and lots of discipline.  We will also learn how to build a CRUD app from the ground up and integrate the Bing Maps API.
+To complete this project we will need to combine both soft and hard skills in order to build a CRUD app from the ground up. We will learn how to collaborate and communicate effectively in order to hit our milestones, which will involve SCRUM practices, solid communication, and lots of discipline. On the technical end, we will learn how to integrate the Bing Maps API to use in a search function. Lastly, we will practice reading and working with each other's code in order to combine several features into one smooth operation.
 
 ### Project Tracker
 [Hidden Gems on Trello](https://trello.com/b/WP5zQwdf/hidden-gem-travel-spots)

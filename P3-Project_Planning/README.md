@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Landing Page](WireFrames/HGTA_Landing_Page.html)
+* [Log In / Register](WireFrames/HGTA_SignInSignUp_Page.html)
+* [User Home Page](WireFrames/HGTA_Profile_Page.html)
+* [Gem Submission Page](WireFrames/HGTA_Gem_Submission.html)
+* [Search Results Page](WireFrames/HGTA_SearchResultsLanding.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Hidden Gems Trello Board](https://trello.com/b/WP5zQwdf)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Hidden Gems on GitHub](https://github.com/tomvalli/helloworldliftoff)
+

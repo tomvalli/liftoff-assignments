@@ -7,12 +7,11 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[My GitHub That You're Already Looking At](https://github.com/tomvalli)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/tomvalli/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+I have shared my resume with KoKo and Dani directly through Google Docs
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.

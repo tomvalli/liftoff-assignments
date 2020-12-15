@@ -13,5 +13,5 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn](https://www.linkedin.com/in/tomvalli/)
 
 ### Resume
-I have shared my resume with KoKo and Dani directly through Google Docs
+I have shared my resume with KoKo and Dani directly through Google Docs.
 
